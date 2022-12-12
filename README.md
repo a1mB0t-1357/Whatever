@@ -7,5 +7,5 @@ The season of Christmas that begins from Thanksgiving brings festivity and joy t
 
 Christmas is a festival full of culture and tradition. The festival entails a lot of preparations. Preparations for Christmas start early for most people. Preparations for Christmas involve a lot of things including buying decorations, food items, and gifts for family members and friends. People usually wear white or red coloured outfits on the day of Christmas.🎄🎄🎄 
 
-bgcolor="red"
-textcolor="green"
+<bgcolor="red">
+<textcolor="green">
