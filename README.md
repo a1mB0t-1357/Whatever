@@ -1,5 +1,29 @@
 <h1>🎄Merry Chirstmas🎅🏻</h1>
-<p style="color:blue">
+@keyframes bgcolor {
+
+    0% {
+        background-color: #45a3e5
+    }
+
+    30% {
+        background-color: #66bf39
+    }
+
+    60% {
+        background-color: #49aef5
+    }
+
+    90% {
+        background-color: #c0c0c0
+    }
+
+    100% {
+        background-color: #c089ff
+    }
+}
+
+body {
+
 Christmas is celebrated every year on December 25. The festival marks the celebration of the birth anniversary of Jesus Christ. Jesus Christ is worshipped as the Messiah of God in Christian Mythology. Hence, his birthday is one of the most joyous ceremonies amongst Christians. Although the festival is mainly celebrated by the followers of Christianity, it is one of the most enjoyed festivals all over the globe. Christmas symbolizes merriment and love. It is celebrated with a lot of zeal and enthusiasm by everyone, no matter what religion they follow. 
 
 
