@@ -1,4 +1,5 @@
 <h1>🎄Merry Chirstmas🎅🏻</h1>
+<p style="color:blue">
 Christmas is celebrated every year on December 25. The festival marks the celebration of the birth anniversary of Jesus Christ. Jesus Christ is worshipped as the Messiah of God in Christian Mythology. Hence, his birthday is one of the most joyous ceremonies amongst Christians. Although the festival is mainly celebrated by the followers of Christianity, it is one of the most enjoyed festivals all over the globe. Christmas symbolizes merriment and love. It is celebrated with a lot of zeal and enthusiasm by everyone, no matter what religion they follow. 
 
 
@@ -6,7 +7,6 @@ The season of Christmas that begins from Thanksgiving brings festivity and joy t
 
 
 Christmas is a festival full of culture and tradition. The festival entails a lot of preparations. Preparations for Christmas start early for most people. Preparations for Christmas involve a lot of things including buying decorations, food items, and gifts for family members and friends. People usually wear white or red coloured outfits on the day of Christmas.🎄🎄🎄 
+</p>
 
 <h1>THANK YOU😜</h1>
-
-<p style="color:blue"></p>
